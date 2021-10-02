@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gbm",
+  "name": "Gooberish Mod",
+  "description": "Integration for Hlep modpacks and servers.",
+  "version": "0.2.2",
+  "mcversion": "1.7.10",
+  "url": "https://discord.gg/3vRjDgc6T5",
+  "updateUrl": "",
+  "authorList": ["Chickn"],
+  "credits": "This waz mabe posibal wit hlep frun meni funy popel.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
