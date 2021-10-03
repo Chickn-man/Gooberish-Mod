@@ -1,0 +1,11 @@
+#items
+	#memes
+item.ItemP.name=Penis
+
+#tiles
+	#memes
+tile.BlockSW.name=White Shmeat
+tile.BlockSP.name=Pink Shmeat
+	#machines
+tile.BlockPowerConverter.name=Power Converter
+tile.BlockFluidConverter.name=Fluid Converter
