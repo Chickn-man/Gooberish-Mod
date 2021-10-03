@@ -1,11 +1,12 @@
 #items
 	#memes
-item.ItemP.name=Penis
+item.ItemP.name=Rocket Ship
 
 #tiles
 	#memes
-tile.BlockSW.name=White Shmeat
-tile.BlockSP.name=Pink Shmeat
+tile.BlockSW.name=Rocket Ship Hull
+tile.BlockSP.name=Rocket Ship Tip
 	#machines
 tile.BlockPowerConverter.name=Power Converter
 tile.BlockFluidConverter.name=Fluid Converter
+tile.BlockMachineTest.name=Test Machine

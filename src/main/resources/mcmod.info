@@ -3,7 +3,7 @@
   "modid": "gbm",
   "name": "Gooberish Mod",
   "description": "Integration for Hlep modpacks and servers.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "mcversion": "1.7.10",
   "url": "https://discord.gg/3vRjDgc6T5",
   "updateUrl": "",
