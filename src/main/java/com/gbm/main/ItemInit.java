@@ -10,6 +10,7 @@ import codechicken.nei.api.API;
 
 //my stuff
 import com.gbm.items.memes.*;
+import com.gbm.lib.RefStrings;
 import com.gbm.main.BlockInit;
 public class ItemInit {
 	//vars
@@ -19,7 +20,7 @@ public class ItemInit {
 	public static void preInit(FMLPreInitializationEvent event) {
 		//memes
 			//create
-		itemP = new ItemP().setUnlocalizedName("ItemP").setTextureName("gbm:itemp");
+		itemP = new ItemP().setUnlocalizedName("ItemP").setTextureName(RefStrings.MODID + ":itemp");
 		GameRegistry.registerItem(itemP, itemP.getUnlocalizedName().substring(5));
 	}
 	

@@ -1,5 +1,7 @@
 package com.gbm.blocks.machines;
 
+import com.gbm.lib.RefStrings;
+
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
@@ -18,12 +20,12 @@ public class BlockPowerConverter extends Block {
 		// TODO Auto-generated constructor stub
 	}
 	public void registerBlockIcons(IIconRegister icon) {
-		Side0 = icon.registerIcon("gbm:blockpowerconverterrf");
-		Side1 = icon.registerIcon("gbm:blockpowerconverterrf");
-		Side2 = icon.registerIcon("gbm:blockpowerconverterrf");
-		Side3 = icon.registerIcon("gbm:blockpowerconverterhe");
-		Side4 = icon.registerIcon("gbm:blockpowerconverterhe");
-		Side5 = icon.registerIcon("gbm:blockpowerconverterhe");
+		Side0 = icon.registerIcon(RefStrings.MODID + ":blockpowerconverterrf");
+		Side1 = icon.registerIcon(RefStrings.MODID + ":blockpowerconverterrf");
+		Side2 = icon.registerIcon(RefStrings.MODID + ":blockpowerconverterrf");
+		Side3 = icon.registerIcon(RefStrings.MODID + ":blockpowerconverterhe");
+		Side4 = icon.registerIcon(RefStrings.MODID + ":blockpowerconverterhe");
+		Side5 = icon.registerIcon(RefStrings.MODID + ":blockpowerconverterhe");
 
 	}
 	
